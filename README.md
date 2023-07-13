@@ -24,6 +24,6 @@ Actualmente estoy aprendiendo ReactJS, Python y reforzando Java.<br>Aprendo ráp
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=D3r3-k&icon=8&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=D3r3-k&label=Visitas&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
