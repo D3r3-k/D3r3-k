@@ -1,29 +1,65 @@
-# Sobre mi:
-Actualmente estoy aprendiendo ReactJS, Python y reforzando Java.<br>Aprendo rápidamente y me esfuerzo practicando para mejorar.
+<h1 align="center">¡Hola! 👋 </h1>
+<h3 align="center">Estudiante de Ingeniería en Ciencias y Sistemas</h3>
+<h4 align="center">Universidad de San Carlos de Guatemala</h4>
 
+<p align="center">
+  Apasionado por resolver problemas con código y buscar errores.<br>
+  Enfocado en aprender, practicar y mejorar día a día como desarrollador.
+</p>
 
-## Redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/D3r3_k_) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/D3r3_k_) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/D3r3_k_#2392) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d3r3k) 
-
-
-## Tecnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=D3r3-k&label=Visitas&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Sobre mí
+
+Soy estudiante de Ingeniería en Ciencias y Sistemas con interés en el desarrollo de software, especialmente en el área de **backend**.
+Me gusta trabajar con tecnologías como **Node.js**, **C#**, y **bases de datos SQL y NoSQL**, además de tener experiencia utilizando **Linux** y explorando herramientas como **AWS**.
+
+Aunque también he trabajado con **frameworks modernos como Next.js**, mi enfoque está en el desarrollo del lado del servidor.
+Disfruto aprender nuevas tecnologías, experimentar con herramientas y mejorar constantemente mis habilidades.
+
+
+---
+
+### 🧰 Tecnologías y herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs, nodejs,ts,go,python,java, mysql,mongodb,linux,aws,git" height="40" />
+</p>
+
+---
+
+### 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D3r3-k&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=D3r3-k&theme=dracula&hide_border=false" height="150"/>
+</p>
+
+---
+
+### 🏆 Trofeos y contribuciones
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=D3r3-k&theme=dracula&row=1&margin-w=15" height="100" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph.svg">
+    <img alt="Gráfico de contribuciones estilo Pac-Man" src="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+### 📫 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/d3r3k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-D3r3k-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/D3r3_k_" target="_blank">
+    <img src="https://img.shields.io/badge/X-Twitter-1E1E1E?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
