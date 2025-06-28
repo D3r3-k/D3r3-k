@@ -72,10 +72,6 @@ Disfruto aprender nuevas tecnologías, experimentar con herramientas y mejorar c
   <img src="https://github-profile-trophy.vercel.app?username=D3r3-k&theme=dracula&row=1&margin-w=15" height="100" />
 </p>
 
-<p align="center">  
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### 📫 Conecta conmigo
