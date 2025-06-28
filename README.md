@@ -22,9 +22,38 @@ Disfruto aprender nuevas tecnologías, experimentar con herramientas y mejorar c
 ---
 
 ### 🧰 Tecnologías y herramientas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs, nodejs,ts,go,python,java, mysql,mongodb,linux,aws,git" height="40" />
-</p>
+
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+</div>
 
 ---
 
