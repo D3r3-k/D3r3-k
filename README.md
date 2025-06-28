@@ -72,13 +72,12 @@ Disfruto aprender nuevas tecnologías, experimentar con herramientas y mejorar c
   <img src="https://github-profile-trophy.vercel.app?username=D3r3-k&theme=dracula&row=1&margin-w=15" height="100" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph.svg">
-    <img alt="Gráfico de contribuciones estilo Pac-Man" src="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/D3r3-k/D3r3-k/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
